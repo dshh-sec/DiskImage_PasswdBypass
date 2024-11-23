@@ -20,7 +20,7 @@ vmware仿真启动后多出管理员用户并且为空密码。
 
 ![img](README/clip_image004.jpg)
 
-另外，在清理密码时还针对Windows系统注册表检测项目进行防蓝屏优化。
+另外，在清理密码时还针对Windows系统注册表检测项目*\services\msahci\Start进行防蓝屏优化。
 目前以测试Windows7、windows10版本主流raw格式、VMDK格式镜像文件。
 
 
